@@ -45,8 +45,3 @@ It includes attributes like:
 - Origin  
 
 **Target Variable:** Miles per Gallon (MPG)
-
----
-
-## Project Structure
-
